@@ -1,0 +1,21 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- PoemBuilder -->
+    <dimen name="word_padding_horizontal">15dp</dimen>
+    <dimen name="word_padding_vertical">15dp</dimen>
+    <dimen name="word_stroke_width">2dp</dimen>
+    <dimen name="word_text_size">22sp</dimen>
+    <dimen name="word_container_padding">7dp</dimen>
+    <dimen name="countdown_text_width">30dp</dimen>
+    <dimen name="countdown_text_height">30dp</dimen>
+    <dimen name="countdown_text_padding_start">4dp</dimen>
+    <dimen name="countdown_text_padding_end">4dp</dimen>
+    <dimen name="countdown_text_padding_top">3dp</dimen>
+    <dimen name="countdown_text_size">20sp</dimen>
+    <dimen name="countdown_spinner_width">60dp</dimen>
+    <dimen name="countdown_spinner_height">60dp</dimen>
+    <dimen name="countdown_spinner_padding">0dp</dimen>
+</resources>
